@@ -8,7 +8,8 @@
 
 
 ## 🌐 Recent Projects:
-[![ERP Solution](https://img.shields.io/badge/ERP_Solution-%230077B5.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/HarshilJO/ERP) [ERP](https://github.com/HarshilJO/ERP) <br>
+[![ERP Solution](![image](https://github.com/user-attachments/assets/e8427dba-ce2a-4137-802e-8f65b9e66a35)
+)](https://github.com/HarshilJO/ERP) [ERP](https://github.com/HarshilJO/ERP) <br>
 [![POS System](https://img.shields.io/badge/POS_System-%23FF6F00.svg?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/HarshilJO/Restro_POS) [Restaurant POS](https://github.com/HarshilJO/Restro_POS) <br>
 [![Retail](https://img.shields.io/badge/Smart_Retail-%23E44D26.svg?style=for-the-badge&logo=shoppingcart&logoColor=white)](https://github.com/HarshilJO/Smart_Retail) [Smart Retail](https://github.com/HarshilJO/Smart_Retail) <br>
 [![To-Do App](https://img.shields.io/badge/To_Do_App-%2332CD32.svg?style=for-the-badge&logo=tasks&logoColor=white)](https://github.com/HarshilJO/TO-DO-app) [To-Do App](https://github.com/HarshilJO/TO-DO-app) <br>
