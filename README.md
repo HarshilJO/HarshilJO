@@ -1,5 +1,5 @@
 <h1>Harshil Joshi</h1>
-<h3>Innovating with Python, Django, FastAPI, and Full-Stack Development | Freelancer | Driven by a Passion for Cutting-Edge Technology
+<h3>Innovating Software with Python, Django, FastAPI, and Full-Stack Development | Freelancer | Driven by a Passion for Cutting-Edge Technology
 </h3>
 
 - 🔭 Enthusiastic about Full-Stack Development with a focus on **Python, Django, and FastAPI**
