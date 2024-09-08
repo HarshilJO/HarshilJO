@@ -10,9 +10,8 @@
 ## 🌐 Recent Projects:
 - [ERP](https://github.com/HarshilJO/ERP) - ERP Solution <br>
 - [Restaurant POS](https://github.com/HarshilJO/Restro_POS) - POS System <br>
-- [Smart Retail](https://github.com/HarshilJO/Smart_Retail) - Retail Management <br>
-- [To-Do App](https://github.com/HarshilJO/TO-DO-app) - Task Management <br>
-- [Retail Management API](https://github.com/HarshilJO/PHP-API) - REST API for Retail <br>
+- [To-Do App](https://github.com/HarshilJO/TO-DO-app) - To do app <br>
+- [Retail Management API](https://github.com/HarshilJO/PHP-API) - REST API for Inventory <br>
 - [Resto Inventory](https://github.com/HarshilJO/Resto_Inventory) - Inventory Management <br>
 
 
