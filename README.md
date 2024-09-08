@@ -8,12 +8,12 @@
 
 
 ## 🌐 Recent Projects:
-[![ERP](https://img.shields.io/badge/ERP-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/ERP) [ERP](https://github.com/HarshilJO/ERP)
-[![Restaurant POS](https://img.shields.io/badge/Restaurant_POS-%23FF6F00.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/Restro_POS) [Restaurant POS](https://github.com/HarshilJO/Restro_POS)
-[![Smart Retail](https://img.shields.io/badge/Smart_Retail-%23E44D26.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/Smart_Retail) [Smart Retail](https://github.com/HarshilJO/Smart_Retail)
-[![To-Do App](https://img.shields.io/badge/To_Do_App-%2332CD32.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/TO-DO-app) [To-Do App](https://github.com/HarshilJO/TO-DO-app)
-[![Retail Management API](https://img.shields.io/badge/Retail_Management_API-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/PHP-API) [Retail Management API](https://github.com/HarshilJO/PHP-API)
-[![Resto Inventory](https://img.shields.io/badge/Resto_Inventory-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HarshilJO/Resto_Inventory) [Resto Inventory](https://github.com/HarshilJO/Resto_Inventory)
+[![ERP Solution](https://img.shields.io/badge/ERP_Solution-%230077B5.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/HarshilJO/ERP) [ERP](https://github.com/HarshilJO/ERP) <br>
+[![POS System](https://img.shields.io/badge/POS_System-%23FF6F00.svg?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/HarshilJO/Restro_POS) [Restaurant POS](https://github.com/HarshilJO/Restro_POS) <br>
+[![Retail](https://img.shields.io/badge/Smart_Retail-%23E44D26.svg?style=for-the-badge&logo=shoppingcart&logoColor=white)](https://github.com/HarshilJO/Smart_Retail) [Smart Retail](https://github.com/HarshilJO/Smart_Retail) <br>
+[![To-Do App](https://img.shields.io/badge/To_Do_App-%2332CD32.svg?style=for-the-badge&logo=tasks&logoColor=white)](https://github.com/HarshilJO/TO-DO-app) [To-Do App](https://github.com/HarshilJO/TO-DO-app) <br>
+[![API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)](https://github.com/HarshilJO/PHP-API) [Retail Management API](https://github.com/HarshilJO/PHP-API) <br>
+[![Inventory](https://img.shields.io/badge/Resto_Inventory-%23F7DF1E.svg?style=for-the-badge&logo=inventory&logoColor=black)](https://github.com/HarshilJO/Resto_Inventory) [Resto Inventory](https://github.com/HarshilJO/Resto_Inventory) <br>
 
 
 ## 🌐 Socials:
