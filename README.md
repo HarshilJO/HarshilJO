@@ -34,10 +34,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilJO&theme=tokyonight&hide_border=false)](https://github.com/HarshilJO)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilJO&langs_count=8&theme=tokyonight&hide_border=false)
 
-# 📊 GitHub Stats:
+##Top languages used
+[![Harshil's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarshilJO)](https://github.com/HarshilJO)
+
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarshilJO&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshilJO&theme=tokyonight&hide_border=false)
 
