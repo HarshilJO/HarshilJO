@@ -35,6 +35,7 @@
 ![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 
+## Top languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilJO&theme=tokyonight&hide_border=false)](https://github.com/HarshilJO)
 
 
