@@ -41,8 +41,8 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshilJO&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshilJO&theme=tokyonight&hide_border=false)
+| ![HarshilJO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshilJO&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![HarshilJO's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshilJO&theme=tokyonight&hide_border=false) |
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HarshilJO&icon=0&color=0)](https://visitcount.itsvg.in)
