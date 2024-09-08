@@ -7,7 +7,7 @@
 - 📫 Contact Information: **harshil.y.joshi.2004@gmail.com**
 
 
-##<h2> ![image](https://github.com/user-attachments/assets/ea23e2c4-f1c6-4f39-aba8-3674336873e5)Recent Projects:</h2>
+## <h2> ![image](https://github.com/user-attachments/assets/ea23e2c4-f1c6-4f39-aba8-3674336873e5)Recent Projects:</h2>
 - [ERP](https://github.com/HarshilJO/ERP) - ERP Solution <br>
 - [Restaurant POS](https://github.com/HarshilJO/Restro_POS) - POS System <br>
 - [To-Do App](https://github.com/HarshilJO/TO-DO-app) - To do app <br>
