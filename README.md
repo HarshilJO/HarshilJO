@@ -36,7 +36,8 @@
 
 
 ##Top languages used
-[![Harshil's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HarshilJO)](https://github.com/HarshilJO)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilJO&theme=tokyonight&hide_border=false)](https://github.com/HarshilJO)
+
 
 
 ## 📊 GitHub Stats:
