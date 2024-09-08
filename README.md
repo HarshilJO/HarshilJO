@@ -3,11 +3,17 @@
 
 - 🔭 Enthusiastic about Full-Stack Development with a focus on **Python, Django, and FastAPI**
 
-- 📫 Contact Information: **work.harshiljoshi@gmail.com**
+- 📫 Contact Information: **harshil.y.joshi.2004@gmail.com**
+
 
 ## 🌐 Recent Projects:
-🕸️ Project 1: [Project Link](https://github.com/HarshilJO/Project1) <br>
-📽️ Project 2: [Project Link](https://github.com/HarshilJO/Project2)
+[![ERP](https://img.shields.io/badge/ERP-%230077B5.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/ERP) <br>
+[![Restaurant POS](https://img.shields.io/badge/Restaurant_POS-%23FF6F00.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/Restro_POS)<br>
+[![Smart Retail](https://img.shields.io/badge/Smart_Retail-%23E44D26.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/Smart_Retail)<br>
+[![To-Do App](https://img.shields.io/badge/To_Do_App-%2332CD32.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/TO-DO-app)<br>
+[![Retail Management API](https://img.shields.io/badge/Retail_Management_API-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilJO/PHP-API)<br>
+[![Resto Inventory](https://img.shields.io/badge/Resto_Inventory-%23F7DF1E.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HarshilJO/Resto_Inventory)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/harshil.__.joshi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-joshi-50726f6772616d6d6572/) [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/HarshilJO/)
